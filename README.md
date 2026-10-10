@@ -21,4 +21,4 @@ The integration cannot send messages, book vendors, process payments, delete rec
 - [Support](https://idocrew-connectors-85059751688.us-east1.run.app/legal/support)
 - [Terms](https://idocrew3.web.app/terms)
 
-This folder is a local submission candidate. It has not been published to a public repository, submitted to Anthropic, or approved. Submit the remote MCP connector separately, then submit this bundle from the same Claude organization. Use the same MCP URL so users who install both see one tool set.
+This is a proprietary submission candidate, not an open-source release. The repository remains private. Anthropic's directory scanned version 1.0.0 privately; version 1.0.1 adds the missing license declaration and proprietary notice. Neither scan nor this notice means the plugin is submitted, approved, or published. Submit the remote MCP connector separately, then submit this bundle from the same Claude organization. Use the same MCP URL so users who install both see one tool set.
