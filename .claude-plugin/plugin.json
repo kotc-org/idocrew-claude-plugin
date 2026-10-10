@@ -1,7 +1,8 @@
 {
   "name": "idocrew",
   "displayName": "I Do Crew",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "license": "UNLICENSED",
   "description": "Review your I Do Crew wedding preferences, vendor recommendations, matches, approved conversations, and notifications with read-only access.",
   "author": {
     "name": "King of the Curve",
