@@ -1,0 +1,17 @@
+{
+  "name": "idocrew",
+  "displayName": "I Do Crew",
+  "version": "1.0.0",
+  "description": "Review your I Do Crew wedding preferences, vendor recommendations, matches, approved conversations, and notifications with read-only access.",
+  "author": {
+    "name": "King of the Curve",
+    "url": "https://idocrew3.web.app"
+  },
+  "homepage": "https://idocrew-connectors-85059751688.us-east1.run.app/connectors",
+  "keywords": ["wedding", "vendors", "planning"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://idocrew-connectors-85059751688.us-east1.run.app/connectors",
+  "supportUrl": "https://idocrew-connectors-85059751688.us-east1.run.app/legal/support",
+  "privacyPolicyUrl": "https://idocrew-connectors-85059751688.us-east1.run.app/legal/privacy",
+  "termsOfServiceUrl": "https://idocrew3.web.app/terms"
+}
